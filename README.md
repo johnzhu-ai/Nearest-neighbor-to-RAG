@@ -1,4 +1,5 @@
-0. Imperative: binge watch Tom and Jerry, but with different plots
+<b>Imperative: binge watch Tom and Jerry, but with different plots</b>
+
 We are binge watching Tom and Jerry, and want to continue with similar-but-not-the-exactly-the-same episodes.
 
 For example, in one episode, Tom is dreaming about catching Jerry in the sleep, whereas in another episode, Tom is really chasing down Jerry (and not in the sleep-walking sense).
